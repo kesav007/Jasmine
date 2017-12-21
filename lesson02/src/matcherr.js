@@ -1,0 +1,3 @@
+somemethod = function(){
+	return false;
+}
